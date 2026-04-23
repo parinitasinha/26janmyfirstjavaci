@@ -26,7 +26,7 @@ public class helloworld {
         
         // Special Information
         System.out.println("=== SPECIAL INFORMATION ===");
-        System.out.println("This is India's Republic Day!");
+        System.out.println("This is India's Independence Day!");
         System.out.println("Celebrates: Adoption of Indian Constitution");
         System.out.println("Year of Constitution: 1950");
         System.out.println("Days until January 26: " + getDaysUntil(jan26));
